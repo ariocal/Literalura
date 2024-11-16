@@ -112,7 +112,7 @@ Por ultimo podras buscar libros segun tu idioma preferido
 ![Opcion 5](imagenes/imagen6.png)
 
 Para salir del sisteam eligimos la opcion 0
-###### Listar libros por idiomas.
+###### Salir del programa.
 ![Opcion 6](imagenes/imagen7.png)
 
 ## Construido con 🛠️
